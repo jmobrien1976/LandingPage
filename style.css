@@ -1,0 +1,34 @@
+
+* {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  }
+
+
+body {
+  background-color: lemonchiffon;
+}
+
+header,
+footer {
+  margin: auto;
+  width: 100%;
+  height: 100px;
+  line-height: 100px;
+  color: #f0ead6;
+  background-color: #191970;
+}
+
+form {
+  
+  background-color: black; color: white;
+}
+
+
+.highlighted-text {
+  font-weight: bolder;
+}
+
+
+#contact-section {
+  background-color: #f0ead6;
+}
